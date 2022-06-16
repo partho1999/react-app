@@ -1,0 +1,15 @@
+.edit{
+        max-width: 50%;
+        margin: 5% auto;
+}
+.action__btn{
+        margin: 0 5px;
+        margin-top: 10px;
+}
+.edit h1{
+        color: rgb(250, 228, 215);
+        display: inline-block;
+        background-color: rgb(87, 164, 226);
+        padding: 5px 10px;
+        border-radius: 5px;
+}
